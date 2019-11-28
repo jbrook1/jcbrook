@@ -1,0 +1,49 @@
+# Phone Usage App
+
+## Executive Summary
+
+The purpose of this app would be to fight the idleness of kids today, it would give parents the ability to install an app on their childrens phone that would then require a certain number of steps to be taken the previous day in order for the phone to be unlocked for usage. 
+
+## Business Objectives
+
+I feel that this project is important beacause so many people are hooked to their phones on a continous cycle and have lost the sense of play for children and social interaction for everyone. Kids spend all day inside at school and then come home to sit in front of a television or a computer, xbox, or their own personal cell phone. I would like this app to make even a small difference in getting the kids to at least be more active.
+
+## Background
+
+This project is being initiated for a personal reason. I have noticed my two teenage kids sit idely by and not even desire to go outside and it id a health concern. If they are not more active now what might they continue into their adulthood and then successively pass on to the next generation. I do not want a society of people from the Wall-E movie.
+
+## Scope
+
+What I see as being needed is a pedometer app and a geotag so the kids cant just move the phone but actually themselves.
+
+## Functional requirements
+
+I see the app as kind of like a lock screen that when set is not a face recognition or a pattern but a measurable set number of steps that must be obtained in order to unlock the phone. An example would be that in a regular day it is estimated that we should be taking at least 10000 steps per day for our health. We then take that number and apply it for the phone in question the chid is then now responsible for their own goal of the day. If the goal is not met that day the phone will not unlock. It is a reward and consequence function that all children learn and it teaches them to be mindful of their own actions. By placing a pedometer function it will be the step counter, and with a geo Tag it will help to eliminate the cheating of just moving the phone around instead of actually taking the physical steps themselves.
+
+
+
+
+## Personnel requirements
+
+I would think a team of at least 4 developers, and 1 person to test the functionality on themselves.
+
+## Delivery schedule
+
+I feel that delivery schedule for this project could be 6-9 months. first 2-3 months in development, 2-3 more in testing, and the remaining 2-3 fine tuning anything missed.
+
+
+## Other requirements
+
+Ideally I would like to see this implemented across all platforms and browser supports. Phones, Wearables, even tablets.
+
+## Assumptions
+
+This app would rely on some sort of GeoTag, ie.. Google Maps, Waze, Life360 somthing in that vein. Also a pedometer app maybe with aviatar enchanements so that the kids could personalize their phones.
+
+## Limitations
+
+None that I can foresee
+
+## Risks
+
+Not seeing the practicality of the app function the way that i have envisioned.
